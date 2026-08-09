@@ -1,3 +1,9 @@
 {
-  "users": []
+  "users": [
+    {
+      "code": "WD0_k_9O5rfkPeFa",
+      "name": "사장님",
+      "active": true
+    }
+  ]
 }
