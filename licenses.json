@@ -1,1 +1,9 @@
-{"users": []}
+{
+  "users": [
+    {
+      "code": "E2E-TEST-CODE-1234",
+      "name": "E2E테스트",
+      "active": true
+    }
+  ]
+}
