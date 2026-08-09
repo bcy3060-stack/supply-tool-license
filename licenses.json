@@ -1,9 +1,3 @@
 {
-  "users": [
-    {
-      "code": "freshness-1786292844",
-      "name": "신선도테스트",
-      "active": true
-    }
-  ]
+  "users": []
 }
