@@ -1,69 +1,95 @@
 {
   "users": [
     {
-      "code": "WD0_k_9O5rfkPeFa",
       "name": "사장님",
-      "active": true
+      "active": true,
+      "code_hash": "b72aa95249db7785b8cd558889afdc430304047b4d52dc78f70d448ef69ee9a4",
+      "expires_at": "2027-08-20T23:59:59+09:00",
+      "max_devices": 1
     },
     {
-      "code": "RmUftQYDivFLHmkj",
       "name": "정성주",
-      "active": true
+      "active": true,
+      "code_hash": "422de576569a92b4e654df35bc7c6843b1543b11be4811c37588475ddfb17de9",
+      "expires_at": "2027-08-20T23:59:59+09:00",
+      "max_devices": 1
     },
     {
-      "code": "UoxJDOfwO9Z2z6jZ",
       "name": "im",
-      "active": true
+      "active": true,
+      "code_hash": "5927454402ff7421e83a9afd00dee6c3eb6fe0f6e4eb8b086d3e3e4e2df3e44c",
+      "expires_at": "2027-08-20T23:59:59+09:00",
+      "max_devices": 1
     },
     {
-      "code": "X7rLpsIBwcjSwHyR",
       "name": "L.Lim",
-      "active": true
+      "active": true,
+      "code_hash": "55b6c2580e3e3e32162878de39581eb376803484eb775a8f3f58ffdc6029526e",
+      "expires_at": "2027-08-20T23:59:59+09:00",
+      "max_devices": 1
     },
     {
-      "code": "F3Pn6Mib9K43otDB",
       "name": "두잇",
-      "active": true
+      "active": true,
+      "code_hash": "a338af8f4c8436f9e4ddbed1a20b0665e5ab7fe1c1b418583df0a25acb0213cb",
+      "expires_at": "2027-08-20T23:59:59+09:00",
+      "max_devices": 1
     },
     {
-      "code": "R7Rnt9TPUGUADkLI",
       "name": "혜빈",
-      "active": true
+      "active": true,
+      "code_hash": "d61daa93c396301808374678b77678781a0b9b1e147bba7c12089dc78dc1af78",
+      "expires_at": "2027-08-20T23:59:59+09:00",
+      "max_devices": 1
     },
     {
-      "code": "48_WB8wEeqZSaiHv",
       "name": "조용빈",
-      "active": true
+      "active": true,
+      "code_hash": "299f4a0e717f0baccdd4164dc99a3c5651251064a12e8299937d41e09aa53815",
+      "expires_at": "2027-08-20T23:59:59+09:00",
+      "max_devices": 1
     },
     {
-      "code": "lSS9Yk4kHwiUuTv4",
       "name": "전은주",
-      "active": true
+      "active": true,
+      "code_hash": "53dd27d9792dc5321d79ce857d3eeac1d680e7a3b5340b552553a56056d6053e",
+      "expires_at": "2027-08-20T23:59:59+09:00",
+      "max_devices": 1
     },
     {
-      "code": "h4uGEbQVgvkgvp0b",
       "name": "이경은",
-      "active": true
+      "active": true,
+      "code_hash": "7f171b0b7d0e8f2af2e6d25fae4763e3b9f66909ba62114fba233a846d2dce85",
+      "expires_at": "2027-08-20T23:59:59+09:00",
+      "max_devices": 1
     },
     {
-      "code": "DSfwblOU7QlNEtvA",
       "name": "김래현",
-      "active": true
+      "active": true,
+      "code_hash": "d75e3212659ee1e42c34e387e09e3451824fe35c33c50cb032d5e94820a860d1",
+      "expires_at": "2027-08-20T23:59:59+09:00",
+      "max_devices": 1
     },
     {
-      "code": "d_IMMIt3R8-RGre5",
       "name": "허원",
-      "active": true
+      "active": true,
+      "code_hash": "5639d2fdb1ea2072012b7c63fcc535e55c41b43f3a3bbf52440e4b8fdb6c18ab",
+      "expires_at": "2027-08-20T23:59:59+09:00",
+      "max_devices": 1
     },
     {
-      "code": "srDGTgrQBh7MYFvd",
       "name": "박현우",
-      "active": true
+      "active": true,
+      "code_hash": "48706ebf400eccebe27f063708ff17933b2583a61f667e90e0854246816b71f5",
+      "expires_at": "2027-08-20T23:59:59+09:00",
+      "max_devices": 1
     },
     {
-      "code": "5DkKdRrLG0MBrGZi",
       "name": "김소라",
-      "active": true
+      "active": true,
+      "code_hash": "46a250b13d14e08508daa0061f638d9916e7eb1604713e5c1c3399199d984324",
+      "expires_at": "2027-08-20T23:59:59+09:00",
+      "max_devices": 1
     }
   ]
 }
