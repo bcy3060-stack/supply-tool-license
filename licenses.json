@@ -5,7 +5,10 @@
       "active": true,
       "code_hash": "b72aa95249db7785b8cd558889afdc430304047b4d52dc78f70d448ef69ee9a4",
       "expires_at": "2027-08-20T23:59:59+09:00",
-      "max_devices": 1
+      "max_devices": 1,
+      "device_hashes": [
+        "30b0e7afdc93d75042e19a39bded0854e552aac4c2f2374505d977370219b0c0"
+      ]
     },
     {
       "name": "정성주",
