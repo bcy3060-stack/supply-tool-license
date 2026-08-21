@@ -93,6 +93,16 @@
       "code_hash": "46a250b13d14e08508daa0061f638d9916e7eb1604713e5c1c3399199d984324",
       "expires_at": "2027-08-20T23:59:59+09:00",
       "max_devices": 1
+    },
+    {
+      "code_hash": "1c171e79d542df087ee0b802af76bd51f9c826c203517550320044482a581f15",
+      "name": "테스터13",
+      "active": true,
+      "expires_at": "2027-08-20T23:59:59+09:00",
+      "device_hashes": [
+        "789d5ae298830985d48739483fae8e1ba52f5bafaaf1033907602fb525f45057"
+      ],
+      "max_devices": 1
     }
   ]
 }
