@@ -15,9 +15,10 @@
       "active": true,
       "code_hash": "422de576569a92b4e654df35bc7c6843b1543b11be4811c37588475ddfb17de9",
       "expires_at": "2027-08-20T23:59:59+09:00",
-      "max_devices": 1,
+      "max_devices": 2,
       "device_hashes": [
-        "2a70eba1aeaf64aba9bc6a9ed8e0ff9eebdb022c0dd43149793da8c8bd0ad0bc"
+        "2a70eba1aeaf64aba9bc6a9ed8e0ff9eebdb022c0dd43149793da8c8bd0ad0bc",
+        "e379e5db76c1415416ddb429908f86c1a570e35009ce8135983d356d150be731"
       ]
     },
     {
