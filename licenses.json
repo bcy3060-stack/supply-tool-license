@@ -32,7 +32,10 @@
       "active": true,
       "code_hash": "55b6c2580e3e3e32162878de39581eb376803484eb775a8f3f58ffdc6029526e",
       "expires_at": "2027-08-20T23:59:59+09:00",
-      "max_devices": 1
+      "max_devices": 1,
+      "device_hashes": [
+        "3cbcd264e921a8d207b6dfe2af80cab1b0038e0b332f8c923beea3d2fc55a082"
+      ]
     },
     {
       "name": "테스터04",
